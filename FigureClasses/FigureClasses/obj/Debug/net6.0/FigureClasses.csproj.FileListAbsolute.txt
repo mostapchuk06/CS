@@ -1,0 +1,15 @@
+D:\C#\FigureClasses\FigureClasses\obj\Debug\net6.0\FigureClasses.csproj.AssemblyReference.cache
+D:\C#\FigureClasses\FigureClasses\obj\Debug\net6.0\FigureClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\FigureClasses\FigureClasses\obj\Debug\net6.0\FigureClasses.AssemblyInfoInputs.cache
+D:\C#\FigureClasses\FigureClasses\obj\Debug\net6.0\FigureClasses.AssemblyInfo.cs
+D:\C#\FigureClasses\FigureClasses\obj\Debug\net6.0\FigureClasses.csproj.CoreCompileInputs.cache
+D:\C#\FigureClasses\FigureClasses\bin\Debug\net6.0\FigureClasses.exe
+D:\C#\FigureClasses\FigureClasses\bin\Debug\net6.0\FigureClasses.deps.json
+D:\C#\FigureClasses\FigureClasses\bin\Debug\net6.0\FigureClasses.runtimeconfig.json
+D:\C#\FigureClasses\FigureClasses\bin\Debug\net6.0\FigureClasses.dll
+D:\C#\FigureClasses\FigureClasses\bin\Debug\net6.0\FigureClasses.pdb
+D:\C#\FigureClasses\FigureClasses\obj\Debug\net6.0\FigureClasses.dll
+D:\C#\FigureClasses\FigureClasses\obj\Debug\net6.0\refint\FigureClasses.dll
+D:\C#\FigureClasses\FigureClasses\obj\Debug\net6.0\FigureClasses.pdb
+D:\C#\FigureClasses\FigureClasses\obj\Debug\net6.0\FigureClasses.genruntimeconfig.cache
+D:\C#\FigureClasses\FigureClasses\obj\Debug\net6.0\ref\FigureClasses.dll
