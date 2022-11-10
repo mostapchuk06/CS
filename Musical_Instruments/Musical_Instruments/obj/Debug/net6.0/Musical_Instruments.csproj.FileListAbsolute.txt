@@ -1,0 +1,15 @@
+D:\C#\Musical_Instruments\Musical_Instruments\obj\Debug\net6.0\Musical_Instruments.csproj.AssemblyReference.cache
+D:\C#\Musical_Instruments\Musical_Instruments\obj\Debug\net6.0\Musical_Instruments.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Musical_Instruments\Musical_Instruments\obj\Debug\net6.0\Musical_Instruments.AssemblyInfoInputs.cache
+D:\C#\Musical_Instruments\Musical_Instruments\obj\Debug\net6.0\Musical_Instruments.AssemblyInfo.cs
+D:\C#\Musical_Instruments\Musical_Instruments\obj\Debug\net6.0\Musical_Instruments.csproj.CoreCompileInputs.cache
+D:\C#\Musical_Instruments\Musical_Instruments\bin\Debug\net6.0\Musical_Instruments.exe
+D:\C#\Musical_Instruments\Musical_Instruments\bin\Debug\net6.0\Musical_Instruments.deps.json
+D:\C#\Musical_Instruments\Musical_Instruments\bin\Debug\net6.0\Musical_Instruments.runtimeconfig.json
+D:\C#\Musical_Instruments\Musical_Instruments\bin\Debug\net6.0\Musical_Instruments.dll
+D:\C#\Musical_Instruments\Musical_Instruments\bin\Debug\net6.0\Musical_Instruments.pdb
+D:\C#\Musical_Instruments\Musical_Instruments\obj\Debug\net6.0\Musical_Instruments.dll
+D:\C#\Musical_Instruments\Musical_Instruments\obj\Debug\net6.0\refint\Musical_Instruments.dll
+D:\C#\Musical_Instruments\Musical_Instruments\obj\Debug\net6.0\Musical_Instruments.pdb
+D:\C#\Musical_Instruments\Musical_Instruments\obj\Debug\net6.0\Musical_Instruments.genruntimeconfig.cache
+D:\C#\Musical_Instruments\Musical_Instruments\obj\Debug\net6.0\ref\Musical_Instruments.dll
