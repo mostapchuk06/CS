@@ -1,0 +1,15 @@
+D:\C#\Timer\Timer\bin\Debug\net6.0\Timer.exe
+D:\C#\Timer\Timer\bin\Debug\net6.0\Timer.deps.json
+D:\C#\Timer\Timer\bin\Debug\net6.0\Timer.runtimeconfig.json
+D:\C#\Timer\Timer\bin\Debug\net6.0\Timer.dll
+D:\C#\Timer\Timer\bin\Debug\net6.0\Timer.pdb
+D:\C#\Timer\Timer\obj\Debug\net6.0\Timer.csproj.AssemblyReference.cache
+D:\C#\Timer\Timer\obj\Debug\net6.0\Timer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Timer\Timer\obj\Debug\net6.0\Timer.AssemblyInfoInputs.cache
+D:\C#\Timer\Timer\obj\Debug\net6.0\Timer.AssemblyInfo.cs
+D:\C#\Timer\Timer\obj\Debug\net6.0\Timer.csproj.CoreCompileInputs.cache
+D:\C#\Timer\Timer\obj\Debug\net6.0\Timer.dll
+D:\C#\Timer\Timer\obj\Debug\net6.0\refint\Timer.dll
+D:\C#\Timer\Timer\obj\Debug\net6.0\Timer.pdb
+D:\C#\Timer\Timer\obj\Debug\net6.0\Timer.genruntimeconfig.cache
+D:\C#\Timer\Timer\obj\Debug\net6.0\ref\Timer.dll
