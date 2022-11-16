@@ -1,0 +1,15 @@
+D:\C#\cs_delegates_initializer\cs_delegates_initializer\obj\Debug\net6.0\cs_delegates_initializer.csproj.AssemblyReference.cache
+D:\C#\cs_delegates_initializer\cs_delegates_initializer\obj\Debug\net6.0\cs_delegates_initializer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\cs_delegates_initializer\cs_delegates_initializer\obj\Debug\net6.0\cs_delegates_initializer.AssemblyInfoInputs.cache
+D:\C#\cs_delegates_initializer\cs_delegates_initializer\obj\Debug\net6.0\cs_delegates_initializer.AssemblyInfo.cs
+D:\C#\cs_delegates_initializer\cs_delegates_initializer\obj\Debug\net6.0\cs_delegates_initializer.csproj.CoreCompileInputs.cache
+D:\C#\cs_delegates_initializer\cs_delegates_initializer\bin\Debug\net6.0\cs_delegates_initializer.exe
+D:\C#\cs_delegates_initializer\cs_delegates_initializer\bin\Debug\net6.0\cs_delegates_initializer.deps.json
+D:\C#\cs_delegates_initializer\cs_delegates_initializer\bin\Debug\net6.0\cs_delegates_initializer.runtimeconfig.json
+D:\C#\cs_delegates_initializer\cs_delegates_initializer\bin\Debug\net6.0\cs_delegates_initializer.dll
+D:\C#\cs_delegates_initializer\cs_delegates_initializer\bin\Debug\net6.0\cs_delegates_initializer.pdb
+D:\C#\cs_delegates_initializer\cs_delegates_initializer\obj\Debug\net6.0\cs_delegates_initializer.dll
+D:\C#\cs_delegates_initializer\cs_delegates_initializer\obj\Debug\net6.0\refint\cs_delegates_initializer.dll
+D:\C#\cs_delegates_initializer\cs_delegates_initializer\obj\Debug\net6.0\cs_delegates_initializer.pdb
+D:\C#\cs_delegates_initializer\cs_delegates_initializer\obj\Debug\net6.0\cs_delegates_initializer.genruntimeconfig.cache
+D:\C#\cs_delegates_initializer\cs_delegates_initializer\obj\Debug\net6.0\ref\cs_delegates_initializer.dll
