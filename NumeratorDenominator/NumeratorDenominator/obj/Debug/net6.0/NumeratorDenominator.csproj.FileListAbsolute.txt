@@ -1,0 +1,15 @@
+D:\C#\NumeratorDenominator\NumeratorDenominator\bin\Debug\net6.0\NumeratorDenominator.exe
+D:\C#\NumeratorDenominator\NumeratorDenominator\bin\Debug\net6.0\NumeratorDenominator.deps.json
+D:\C#\NumeratorDenominator\NumeratorDenominator\bin\Debug\net6.0\NumeratorDenominator.runtimeconfig.json
+D:\C#\NumeratorDenominator\NumeratorDenominator\bin\Debug\net6.0\NumeratorDenominator.dll
+D:\C#\NumeratorDenominator\NumeratorDenominator\bin\Debug\net6.0\NumeratorDenominator.pdb
+D:\C#\NumeratorDenominator\NumeratorDenominator\obj\Debug\net6.0\NumeratorDenominator.csproj.AssemblyReference.cache
+D:\C#\NumeratorDenominator\NumeratorDenominator\obj\Debug\net6.0\NumeratorDenominator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\NumeratorDenominator\NumeratorDenominator\obj\Debug\net6.0\NumeratorDenominator.AssemblyInfoInputs.cache
+D:\C#\NumeratorDenominator\NumeratorDenominator\obj\Debug\net6.0\NumeratorDenominator.AssemblyInfo.cs
+D:\C#\NumeratorDenominator\NumeratorDenominator\obj\Debug\net6.0\NumeratorDenominator.csproj.CoreCompileInputs.cache
+D:\C#\NumeratorDenominator\NumeratorDenominator\obj\Debug\net6.0\NumeratorDenominator.dll
+D:\C#\NumeratorDenominator\NumeratorDenominator\obj\Debug\net6.0\refint\NumeratorDenominator.dll
+D:\C#\NumeratorDenominator\NumeratorDenominator\obj\Debug\net6.0\NumeratorDenominator.pdb
+D:\C#\NumeratorDenominator\NumeratorDenominator\obj\Debug\net6.0\NumeratorDenominator.genruntimeconfig.cache
+D:\C#\NumeratorDenominator\NumeratorDenominator\obj\Debug\net6.0\ref\NumeratorDenominator.dll
