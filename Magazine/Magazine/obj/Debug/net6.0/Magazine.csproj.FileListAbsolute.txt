@@ -1,0 +1,15 @@
+D:\C#\Magazine\Magazine\bin\Debug\net6.0\Magazine.exe
+D:\C#\Magazine\Magazine\bin\Debug\net6.0\Magazine.deps.json
+D:\C#\Magazine\Magazine\bin\Debug\net6.0\Magazine.runtimeconfig.json
+D:\C#\Magazine\Magazine\bin\Debug\net6.0\Magazine.dll
+D:\C#\Magazine\Magazine\bin\Debug\net6.0\Magazine.pdb
+D:\C#\Magazine\Magazine\obj\Debug\net6.0\Magazine.csproj.AssemblyReference.cache
+D:\C#\Magazine\Magazine\obj\Debug\net6.0\Magazine.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Magazine\Magazine\obj\Debug\net6.0\Magazine.AssemblyInfoInputs.cache
+D:\C#\Magazine\Magazine\obj\Debug\net6.0\Magazine.AssemblyInfo.cs
+D:\C#\Magazine\Magazine\obj\Debug\net6.0\Magazine.csproj.CoreCompileInputs.cache
+D:\C#\Magazine\Magazine\obj\Debug\net6.0\Magazine.dll
+D:\C#\Magazine\Magazine\obj\Debug\net6.0\refint\Magazine.dll
+D:\C#\Magazine\Magazine\obj\Debug\net6.0\Magazine.pdb
+D:\C#\Magazine\Magazine\obj\Debug\net6.0\Magazine.genruntimeconfig.cache
+D:\C#\Magazine\Magazine\obj\Debug\net6.0\ref\Magazine.dll
