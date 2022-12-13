@@ -1,0 +1,15 @@
+D:\C#\tetris\tetris\bin\Debug\net6.0\tetris.exe
+D:\C#\tetris\tetris\bin\Debug\net6.0\tetris.deps.json
+D:\C#\tetris\tetris\bin\Debug\net6.0\tetris.runtimeconfig.json
+D:\C#\tetris\tetris\bin\Debug\net6.0\tetris.dll
+D:\C#\tetris\tetris\bin\Debug\net6.0\tetris.pdb
+D:\C#\tetris\tetris\obj\Debug\net6.0\tetris.csproj.AssemblyReference.cache
+D:\C#\tetris\tetris\obj\Debug\net6.0\tetris.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\tetris\tetris\obj\Debug\net6.0\tetris.AssemblyInfoInputs.cache
+D:\C#\tetris\tetris\obj\Debug\net6.0\tetris.AssemblyInfo.cs
+D:\C#\tetris\tetris\obj\Debug\net6.0\tetris.csproj.CoreCompileInputs.cache
+D:\C#\tetris\tetris\obj\Debug\net6.0\tetris.dll
+D:\C#\tetris\tetris\obj\Debug\net6.0\refint\tetris.dll
+D:\C#\tetris\tetris\obj\Debug\net6.0\tetris.pdb
+D:\C#\tetris\tetris\obj\Debug\net6.0\tetris.genruntimeconfig.cache
+D:\C#\tetris\tetris\obj\Debug\net6.0\ref\tetris.dll
